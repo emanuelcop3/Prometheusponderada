@@ -129,7 +129,7 @@ groups:
 ```
 
 
-Conclusão
+## Conclusão
 Este projeto proporcionou uma compreensão prática do monitoramento do coletor OpenTelemetry usando métricas do Prometheus. Aprendemos a configurar e monitorar o coletor OTEL, bem como a criar dashboards informativos no Grafana para visualizar as métricas coletadas. Este conhecimento será valioso para implementar monitoramento em outros projetos futuros.
 
 ## Documentação
